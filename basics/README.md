@@ -1,5 +1,2 @@
-# Shell Basics
-This folder contains scripts for basic shell commands.
-
-## Files Description
-* 0-current_working_directory: Prints the absolute path name of the current working directory.
+This project focuses on shell basics.
+0-current_working_directory: Prints the current directory
